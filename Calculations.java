@@ -33,6 +33,7 @@ public class Calculations {
 	}
 	
 	public static String welcome() {
+		System.out.println("Hello World");
 		return "Hello World"; 
 	}
 
